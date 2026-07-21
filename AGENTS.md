@@ -28,7 +28,10 @@ Les règles du fichier de mission actif sont obligatoires. En cas de conflit, ap
 - **Mission 2 : pratique du passé composé**  
   Fichier : `missions/mission-2-passe-compose.md`
 
-Les futures activités devront être ajoutées comme `Mission 3`, `Mission 4`, etc., sans remplacer ni renuméroter les missions existantes.
+- **Mission 3 : articles et prépositions avec les pays**  
+  Fichier : `missions/mission-3-pays.md`
+
+Les futures activités devront être ajoutées comme `Mission 4`, `Mission 5`, etc., sans remplacer ni renuméroter les missions existantes.
 
 ## 4. Activation d’une mission
 
@@ -49,6 +52,15 @@ Pour la Mission 2, des formulations telles que les suivantes l’activent :
 - « Continuons la Mission 2 »
 - « Donne-moi des exercices sur le passé composé »
 - « On continue avec le passé composé »
+
+Pour la Mission 3, des formulations telles que les suivantes l’activent :
+
+- « Mission 3 »
+- « Commence la Mission 3 »
+- « Continuons la Mission 3 »
+- « Donne-moi des exercices sur les pays »
+- « On continue avec les articles des pays »
+- « Faisons les prépositions avec les pays »
 
 Ne demande pas à l’apprenant ce qu’il souhaite faire lorsqu’une mission est clairement activée.
 
