@@ -103,3 +103,24 @@ h2 { font-size: clamp(1.5rem, 4vw, 2.25rem); }
 .feedback { font-weight: 800; min-height: 1.5rem; }
 .next { background: #7b3fe4; color: white; }
 .next:disabled { cursor: not-allowed; opacity: 0.45; }
+
+.summary {
+  display: grid;
+  gap: 0.75rem;
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.summary li {
+  border-left: 5px solid #7b3fe4;
+  background: #faf7ff;
+  border-radius: 14px;
+  display: grid;
+  gap: 0.35rem;
+  padding: 0.85rem 1rem;
+}
+
+.summary li.ok { border-left-color: #27a447; }
+.summary li.nok { border-left-color: #db3155; }
+.summary small { color: #5d4b73; }
