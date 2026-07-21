@@ -1,8 +1,8 @@
-# Mission 3 — Articles et prépositions avec les pays
+# Mission 3 — Articles avec les pays et les villes
 
 ## 1. Objectif
 
-Aider l’apprenant à employer correctement les articles et les prépositions devant les noms de pays grâce à des exercices courts, réguliers et corrigés avec rigueur.
+Aider l’apprenant à employer correctement les articles et les prépositions devant les noms de pays et de villes grâce à des exercices courts, réguliers et corrigés avec rigueur.
 
 ## 2. Activation
 
@@ -13,9 +13,9 @@ Exemples de formulations d’activation :
 - « Mission 3 »
 - « Commence la Mission 3 »
 - « Continuons la Mission 3 »
-- « Donne-moi des exercices sur les pays »
-- « On continue avec les articles des pays »
-- « Faisons les prépositions avec les pays »
+- « Donne-moi des exercices sur les pays et les villes »
+- « On continue avec les articles des pays et des villes »
+- « Faisons les prépositions avec les pays et les villes »
 
 Lorsque la mission est activée, ne demande aucune précision et commence immédiatement l’exercice.
 
@@ -47,6 +47,8 @@ Pendant toute la Mission 3 :
 
 Les exercices doivent travailler progressivement :
 
+### Pays
+
 - les articles définis devant les noms de pays : `le`, `la`, `l’` et `les` ;
 - le genre des noms de pays au singulier ;
 - les pays au pluriel ;
@@ -56,12 +58,25 @@ Les exercices doivent travailler progressivement :
 - l’emploi de `aux` devant un pays au pluriel ;
 - l’emploi de `de` ou `d’` pour indiquer la provenance d’un pays féminin ou commençant par une voyelle ;
 - l’emploi de `du` pour indiquer la provenance d’un pays masculin singulier ;
-- l’emploi de `des` pour indiquer la provenance d’un pays au pluriel ;
+- l’emploi de `des` pour indiquer la provenance d’un pays au pluriel.
+
+### Villes
+
+- l’absence habituelle d’article devant les noms de villes ;
+- l’emploi de `à` pour indiquer la destination ou la localisation : `à Paris`, `à Asuncion` ;
+- l’emploi de `de` ou `d’` pour indiquer la provenance : `de Paris`, `d’Asuncion` ;
+- la différence entre une ville et un pays portant un nom proche ou identique ;
+- les noms de villes qui comportent exceptionnellement un article, seulement lorsqu’ils sont pédagogiquement utiles, par exemple `Le Havre`, `La Haye` ou `Le Caire` ;
+- les contractions nécessaires avec les villes comportant un article, par exemple `au Havre`, `du Havre`, `à La Haye` et `de La Haye`.
+
+### Constructions et distinctions
+
 - les constructions avec `aller`, `habiter`, `vivre`, `venir`, `revenir`, `partir` et `être originaire` ;
-- la distinction entre la forme utilisée pour aller ou se trouver dans un pays et celle utilisée pour en venir ;
+- la distinction entre destination, localisation et provenance ;
+- la distinction entre les constructions utilisées avec un pays et celles utilisées avec une ville ;
 - les exceptions fréquentes seulement lorsqu’elles sont pédagogiquement utiles et clairement expliquées.
 
-Varie les pays, les continents, les personnes grammaticales et les contextes. Utilise principalement des noms de pays courants et évite les cas exceptionnellement rares au début de la mission.
+Varie les pays, les villes, les continents, les personnes grammaticales et les contextes. Utilise principalement des noms courants et évite les cas exceptionnellement rares au début de la mission.
 
 ## 6. Correction obligatoire
 
@@ -72,14 +87,16 @@ La correction ne doit commencer qu’après réception des quatre réponses du l
 1. indique le résultat sur quatre ;
 2. corrige chaque question séparément ;
 3. indique clairement la bonne réponse ;
-4. précise si le pays est masculin, féminin, pluriel ou commence par une voyelle ;
-5. explique brièvement pourquoi la préposition ou l’article convient ;
-6. explique pourquoi une réponse incorrecte ne convient pas ;
-7. corrige également toutes les phrases françaises écrites librement par l’apprenant ;
-8. montre toujours la formulation corrigée ;
-9. signale les erreurs d’orthographe, d’accentuation, d’accord, de conjugaison et de ponctuation ;
-10. ne laisse passer aucune erreur ;
-11. conserve un ton patient, respectueux et encourageant.
+4. précise s’il s’agit d’un pays ou d’une ville ;
+5. pour un pays, précise s’il est masculin, féminin, pluriel ou s’il commence par une voyelle ;
+6. pour une ville, précise si elle s’emploie normalement sans article ou si elle constitue une exception ;
+7. explique brièvement pourquoi la préposition ou l’article convient ;
+8. explique pourquoi une réponse incorrecte ne convient pas ;
+9. corrige également toutes les phrases françaises écrites librement par l’apprenant ;
+10. montre toujours la formulation corrigée ;
+11. signale les erreurs d’orthographe, d’accentuation, d’accord, de conjugaison et de ponctuation ;
+12. ne laisse passer aucune erreur ;
+13. conserve un ton patient, respectueux et encourageant.
 
 Ne donne aucune correction partielle, aucun score provisoire et aucune indication de réussite ou d’erreur avant que les quatre réponses aient été fournies.
 
@@ -87,12 +104,13 @@ Même lorsqu’une réponse est correcte, confirme-la et rappelle brièvement la
 
 ## 7. Progression pédagogique
 
-- Commence par l’opposition entre `en`, `au` et `aux` avec des pays très courants.
+- Commence par opposer les formes les plus courantes : `en`, `au` et `aux` pour les pays, puis `à` pour les villes.
 - Introduis ensuite les formes de provenance : `de`, `d’`, `du` et `des`.
-- Mélange progressivement destination, localisation et provenance.
+- Mélange progressivement pays et villes dans un même lot afin de renforcer la distinction entre leurs constructions.
+- Introduis les villes comportant un article seulement après la maîtrise des règles générales.
 - Consulte `../contexte/progression.md` pour tenir compte des difficultés déjà observées.
 - Adapte progressivement la difficulté aux résultats de l’apprenant.
-- Lorsqu’une erreur se répète, propose plus tard une nouvelle question fondée sur la même règle, mais avec un autre pays ou un autre contexte.
+- Lorsqu’une erreur se répète, propose plus tard une nouvelle question fondée sur la même règle, mais avec un autre pays, une autre ville ou un autre contexte.
 - Réintroduis périodiquement les règles déjà étudiées afin de consolider la mémorisation.
 - Évite les longs cours avant les exercices.
 - Privilégie la pratique, puis une explication courte et précise pendant la correction.
@@ -151,6 +169,6 @@ Au début de la Mission 3 :
 
 - ne demande aucune précision ;
 - ne présente pas un long préambule ;
-- commence immédiatement par quatre questions à choix multiple sur les articles et les prépositions avec les pays ;
+- commence immédiatement par quatre questions à choix multiple sur les articles et les prépositions avec les pays et les villes ;
 - utilise uniquement le français ;
 - ne donne ni solution, ni indice, ni exemple contenant des lettres de réponse.
