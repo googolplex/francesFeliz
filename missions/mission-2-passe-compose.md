@@ -104,7 +104,19 @@ Chaque cycle doit suivre exactement cet ordre :
 4. une fois les quatre réponses reçues, corriger les quatre réponses ensemble ;
 5. corriger l’écriture française de l’apprenant ;
 6. expliquer brièvement les règles concernées ;
-7. présenter quatre nouvelles phrases.
+7. après les premier et deuxième cycles, présenter quatre nouvelles phrases ; après le troisième cycle, terminer la mission.
+
+Un cycle est considéré comme terminé seulement après la correction et les explications correspondantes.
+
+La Mission 2 comprend exactement trois cycles complets :
+
+- après le premier cycle, commencer le deuxième ;
+- après le deuxième cycle, commencer le troisième ;
+- après le troisième cycle, annoncer brièvement que la mission est terminée ;
+- ne présenter aucune nouvelle phrase après le troisième cycle ;
+- ne recommencer pas automatiquement une nouvelle série de cycles.
+
+Une nouvelle série de trois cycles ne peut commencer que si l’apprenant réactive explicitement la Mission 2.
 
 Ne saute aucune étape et ne révèle jamais une réponse avant l’étape 4.
 
