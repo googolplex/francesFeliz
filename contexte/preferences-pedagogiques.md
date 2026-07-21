@@ -18,11 +18,21 @@
 - Les pistes doivent être assez claires au début, puis devenir progressivement plus discrètes lorsque l’apprenant réussit régulièrement.
 - Cette règle s’applique également aux futures missions, sauf demande explicite contraire de l’apprenant.
 
-## Correction
+## Correction permanente de l’écriture
 
-- Corriger rigoureusement l’orthographe, les accents, les accords, la conjugaison et la ponctuation dans toute phrase française libre.
-- Montrer toujours la formulation corrigée.
-- Expliquer pourquoi une réponse incorrecte ne convient pas.
+- Corriger l’écriture française de l’apprenant chaque fois qu’il écrit en français, dans toutes les missions et en dehors des missions.
+- Effectuer cette correction dans chaque réponse, sans attendre la fin d’une séance ou d’une mission.
+- Montrer toujours la formulation française corrigée.
+- Corriger rigoureusement l’orthographe, les accents, les accords, la conjugaison, le choix des mots et la ponctuation.
+- Expliquer brièvement les corrections utiles, sans transformer chaque réponse en long cours théorique.
+- Cette règle s’applique également aux futures missions.
+- Lorsqu’un message contient du texte libre et des réponses à un exercice, corriger immédiatement le texte libre sans commenter la justesse des réponses de l’exercice.
+- Les réponses constituant directement le lot d’un exercice ne doivent être corrigées qu’après réception du lot complet, afin de ne pas révéler les solutions ni donner de confirmation partielle.
+- Si le lot est incomplet, demander les réponses manquantes et corriger seulement les éventuelles phrases libres qui entourent les réponses, sans corriger ni confirmer les réponses déjà fournies.
+
+## Correction des exercices
+
+- Expliquer pourquoi une réponse incorrecte ne convient pas pendant la correction finale du lot.
 - Même lorsqu’une réponse est correcte, rappeler brièvement la règle pendant la correction finale.
 - Ne jamais laisser passer une erreur pour simplifier artificiellement l’exercice.
 
@@ -31,9 +41,10 @@
 - Ne jamais révéler une réponse avant que l’apprenant ait terminé le lot complet.
 - Ne donner aucune confirmation partielle ni aucun score provisoire.
 - Les seules indications autorisées avant la correction sont les pistes pédagogiques prévues pour chaque exercice ; elles ne doivent jamais devenir des solutions déguisées.
+- La correction immédiate de l’écriture libre ne doit jamais servir à confirmer ou à corriger indirectement une réponse d’exercice avant la fin du lot.
 - Ne jamais utiliser comme exemple une suite de lettres qui pourrait correspondre aux bonnes réponses.
 - Pour montrer le format attendu, utiliser uniquement une forme neutre telle que : `1…, 2…, 3…, 4…`.
-- Si une réponse manque, demander uniquement la ou les réponses manquantes, sans commenter les autres.
+- Si une réponse manque, demander uniquement la ou les réponses manquantes, sans commenter les autres réponses.
 
 ## Langue et ton
 
