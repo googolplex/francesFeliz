@@ -99,12 +99,14 @@ Après réception du lot complet :
 1. indique le nombre total d’espaces correctement complétés ;
 2. corrige les numéros 1 à 25 dans l’ordre ;
 3. montre la phrase complète avec le bon article ou les bons articles ;
-4. pour chaque erreur, explique brièvement la règle concernée ;
-5. pour chaque bonne réponse, confirme brièvement la règle appliquée ;
-6. corrige également toute phrase française libre écrite par l’apprenant, conformément aux préférences pédagogiques générales ;
-7. conserve un ton patient, précis et encourageant.
+4. pour chaque réponse, donne une petite explication claire de la correction ;
+5. précise brièvement la raison grammaticale utile : genre du nom, singulier ou pluriel, élément comptable, quantité indéterminée, matière non comptable ou élision devant une voyelle ;
+6. pour chaque erreur, explique pourquoi l’article choisi ne convient pas et pourquoi l’article correct convient ;
+7. pour chaque bonne réponse, confirme brièvement la règle appliquée ;
+8. corrige également toute phrase française libre écrite par l’apprenant, conformément aux préférences pédagogiques générales ;
+9. conserve un ton patient, précis et encourageant.
 
-Ne transforme pas la correction en un long cours théorique.
+Les explications doivent rester courtes, généralement une ou deux phrases par réponse. Ne transforme pas la correction en un long cours théorique.
 
 ## 8. Fin de la mission
 
