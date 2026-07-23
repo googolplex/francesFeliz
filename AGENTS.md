@@ -36,7 +36,10 @@ La règle de correction permanente définie dans `contexte/preferences-pedagogiq
 - **Mission 4 : faire les courses au supermarché**  
   Fichier : `missions/mission-4-supermarche.md`
 
-Les futures activités devront être ajoutées comme `Mission 5`, `Mission 6`, etc., sans remplacer ni renuméroter les missions existantes.
+- **Mission 5 : pratique de la lecture niveau B1**  
+  Fichier : `missions/mission-5-lecture-b1.md`
+
+Les futures activités devront être ajoutées comme `Mission 6`, `Mission 7`, etc., sans remplacer ni renuméroter les missions existantes.
 
 ## 4. Activation d’une mission
 
@@ -75,6 +78,15 @@ Pour la Mission 4, des formulations telles que les suivantes l’activent :
 - « Faisons les courses au supermarché »
 - « Donne-moi des exercices sur le supermarché »
 - « On continue avec les achats au supermarché »
+
+Pour la Mission 5, des formulations telles que les suivantes l’activent :
+
+- « Mission 5 »
+- « Commence la Mission 5 »
+- « Continuons la Mission 5 »
+- « Donne-moi un texte de lecture niveau B1 »
+- « Faisons de la lecture en français »
+- « Je veux pratiquer la compréhension écrite B1 »
 
 Ne demande pas à l’apprenant ce qu’il souhaite faire lorsqu’une mission est clairement activée.
 
