@@ -39,7 +39,10 @@ La règle de correction permanente définie dans `contexte/preferences-pedagogiq
 - **Mission 5 : pratique de la lecture niveau B1**  
   Fichier : `missions/mission-5-lecture-b1.md`
 
-Les futures activités devront être ajoutées comme `Mission 6`, `Mission 7`, etc., sans remplacer ni renuméroter les missions existantes.
+- **Mission 6 : choisir le bon article dans des phrases à trous**  
+  Fichier : `missions/mission-6-articles-a-trous.md`
+
+Les futures activités devront être ajoutées comme `Mission 7`, `Mission 8`, etc., sans remplacer ni renuméroter les missions existantes.
 
 ## 4. Activation d’une mission
 
@@ -87,6 +90,15 @@ Pour la Mission 5, des formulations telles que les suivantes l’activent :
 - « Donne-moi un texte de lecture niveau B1 »
 - « Faisons de la lecture en français »
 - « Je veux pratiquer la compréhension écrite B1 »
+
+Pour la Mission 6, des formulations telles que les suivantes l’activent :
+
+- « Mission 6 »
+- « Commence la Mission 6 »
+- « Continuons la Mission 6 »
+- « Donne-moi l’exercice des 25 articles »
+- « Faisons l’exercice à trous sur les articles »
+- « Choisissez le bon article »
 
 Ne demande pas à l’apprenant ce qu’il souhaite faire lorsqu’une mission est clairement activée.
 
