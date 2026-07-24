@@ -42,7 +42,10 @@ La règle de correction permanente définie dans `contexte/preferences-pedagogiq
 - **Mission 6 : choisir le bon article dans des phrases à trous**  
   Fichier : `missions/mission-6-articles-a-trous.md`
 
-Les futures activités devront être ajoutées comme `Mission 7`, `Mission 8`, etc., sans remplacer ni renuméroter les missions existantes.
+- **Mission 7 : passé composé avec la négation**  
+  Fichier : `missions/mission-7-passe-compose-negation.md`
+
+Les futures activités devront être ajoutées comme `Mission 8`, `Mission 9`, etc., sans remplacer ni renuméroter les missions existantes.
 
 ## 4. Activation d’une mission
 
@@ -99,6 +102,15 @@ Pour la Mission 6, des formulations telles que les suivantes l’activent :
 - « Donne-moi l’exercice des 25 articles »
 - « Faisons l’exercice à trous sur les articles »
 - « Choisissez le bon article »
+
+Pour la Mission 7, des formulations telles que les suivantes l’activent :
+
+- « Mission 7 »
+- « Commence la Mission 7 »
+- « Continuons la Mission 7 »
+- « Donne-moi des exercices sur le passé composé avec la négation »
+- « Pratiquons la négation au passé composé »
+- « Faisons le passé composé négatif »
 
 Ne demande pas à l’apprenant ce qu’il souhaite faire lorsqu’une mission est clairement activée.
 
